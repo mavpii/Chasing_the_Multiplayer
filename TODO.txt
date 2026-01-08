@@ -1,6 +1,0 @@
-ПЕРЕПИСАТИ ЗАКЛЯТТЯ:
-- polymorph
-- illusion
-- contingency
-- familiar
-- counterspell
